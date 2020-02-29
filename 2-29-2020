@@ -1,8 +1,8 @@
 Initialized Server
 added common NPCs
-Change max base/job level 255
-change exp base/job 10k
-Change drop rate:
+Changed max base/job level 255
+changed exp base/job 10k
+Changed drop rate:
                 10% Normal Cards
                 5% MVP Cards
                 0.5 ~ 1% Rare MVP Cards
@@ -12,3 +12,4 @@ Modified Healer (heal+repair+identify w/2seconds delay)
 New Training Grounds for newbies (just type @train)
 Modified Job Changer (Taekwon/Soul Linker/Star Gladiator removed)
 Modified exp table (base/job exp)
+Changed max (cloth color/hair style/hair color)
