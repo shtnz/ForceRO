@@ -8,3 +8,7 @@ Change drop rate:
                 0.5 ~ 1% Rare MVP Cards
 Common Server Configuration (stats/aspd/card weight/max storage/gstorage/max party/max guild size)
 Enabled @pk commands
+Modified Healer (heal+repair+identify w/2seconds delay)
+New Training Grounds for newbies (just type @train)
+Modified Job Changer (Taekwon/Soul Linker/Star Gladiator removed)
+Modified exp table (base/job exp)
