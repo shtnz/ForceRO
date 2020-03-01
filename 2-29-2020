@@ -16,3 +16,12 @@ Changed max (cloth color/hair style/hair color)
 Added Goldroom + Gold points (req. 100k zeny to enter)
 Added Pvp system (pvp warper + points + announcer + soundeffect + ranking)
 Added Punching bag (demi-human + emperium)
+Added Freebies (1bounded doppelganger + 3x field manual(100%) + 50k zeny)
+Modified stylist npc (max hair 81/ max hair color 127 / max cloth color 699)
+Changed max aspd to 197
+New hp/sp table (all jobs)
+Added credit agent (credits + exchanger, 10m zeny = 1credit)
+Added Private MVP room (+ poring box + dead branch + bloody branch seller)
+Removed all gold from monster
+Updated delay of main potion (ygg berry 2secs / ygg seed 1sec / white potion 1sec)
+Removed endless tower
