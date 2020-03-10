@@ -25,3 +25,12 @@ Added Private MVP room (+ poring box + dead branch + bloody branch seller)
 Removed all gold from monster
 Updated delay of main potion (ygg berry 2secs / ygg seed 1sec / white potion 1sec)
 Removed endless tower
+Added pilipinas cap for freebies
+Added exit npc in pvp room
+Added hit-delay (5sec delay)
+Disabled commands when player is dead
+Removed guard/smile npc on prontera
+Changed pvp room map to guild_vs3
+Added player Commands (@go, @warp, etc...)
+Modified injustice card (sonic blow delay when hitting to continously)
+Removed magnumbreak in turtle general card
